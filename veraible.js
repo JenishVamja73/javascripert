@@ -9,3 +9,4 @@ let  islenagth = 1;
 let value = Boolean(islenagth)
 console.log(typeof value,value)
 //1 true and 0 > false value boolen value
+
